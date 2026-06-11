@@ -91,7 +91,7 @@ Se aparecer "✓ Conectado", está tudo pronto para você construir.
 
 ## 📋 Regras
 
-- **Prazo**: 3 dias corridos.
+- **Prazo**: 5 dias corridos.
 - **Stack obrigatória**: Next.js (App Router) + TypeScript. UI à sua escolha (Tailwind já configurado;
   pode usar shadcn/ui, etc.).
 - Pode usar IA como assistente — mas **você precisa entender e defender cada decisão** na entrevista.
